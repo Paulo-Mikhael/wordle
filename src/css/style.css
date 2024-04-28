@@ -30,6 +30,13 @@ main .square{
     width: 59px;
     height: 59px;
     border: 2px solid #585858;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main .square p{
+    color: white;
+    font-size: 10px;
 }
 footer{
     height: 130px;
